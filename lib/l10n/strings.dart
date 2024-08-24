@@ -1,7 +1,7 @@
 class AppStrings {
   static const String appBarTitle = 'CheckIn/ CheckOut Form';
   static const String saveTitle = 'Save Data';
-  static const String addToListTitle = 'Save Data';
+  static const String addToListTitle = 'Add To list';
   static const String breakTime = 'Break Times';
   static const String startDate = 'Start Date';
   static const String startTime = 'Start Time';
